@@ -1,0 +1,2 @@
+# bingo
+ BINGO cards generator

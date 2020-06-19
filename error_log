@@ -1,0 +1,5 @@
+[24-May-2017 19:43:33 America/Denver] PHP Notice:  Undefined index: number_of_board in /home2/thisitz6/public_html/puzzles/bingo/resolve.php on line 21
+[24-May-2017 19:43:44 America/Denver] PHP Notice:  Undefined index: number_of_board in /home2/thisitz6/public_html/puzzles/bingo/resolve.php on line 21
+[24-May-2017 19:43:44 America/Denver] PHP Notice:  Undefined index: randomize in /home2/thisitz6/public_html/puzzles/bingo/resolve.php on line 55
+[24-May-2017 19:44:02 America/Denver] PHP Notice:  Undefined index: number_of_board in /home2/thisitz6/public_html/puzzles/bingo/resolve.php on line 21
+[24-May-2017 19:44:02 America/Denver] PHP Notice:  Undefined index: randomize in /home2/thisitz6/public_html/puzzles/bingo/resolve.php on line 55
